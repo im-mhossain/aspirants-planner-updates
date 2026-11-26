@@ -1,10 +1,13 @@
 {
-  "versionCode": 6,
-  "versionName": "3.3",
-  "apkUrl": "https://github.com/im-mhossain/aspirants-planner-updates/releases/download/v3.3/3.3.apk",
+  "versionCode": 7,
+  "versionName": "3.4",
+  "apkUrl": "https://github.com/im-mhossain/aspirants-planner-updates/releases/download/v3.4/Aspirant.s.Planner.3.4.apk",
   "changelog": "
-- নতুন আপডেট এলে মেনুতে ছোট লাল ডট দেখা যাবে
-- অ্যাপের ভেতরেই প্রগ্রেস বারসহ আপডেট ডাউনলোড
-- ব্রাউজার বা Downloads ফোল্ডার ছাড়াই সরাসরি ইনস্টল স্ক্রিন
-- ডাউনলোড বা ইনস্টলে সমস্যা হলে পরিষ্কার মেসেজ ও আবার চেষ্টার সুবিধা"
+নতুন কী আছে:
+- নতুন আপডেট এলে মেনুতে লাল ডট, অ্যাপের ভেতরেই ডাউনলোড ও ইনস্টল
+- সাবজেক্টগুলো এক লাইনে, সোয়াইপ ও তীর আইকনসহ
+- "+ Subject" আলাদা লাইনে, বাটনগুলো মাঝখানে
+- Pomodoro খোলা থাকলে বাকি অ্যাপ বন্ধ
+- ফোকাস টাইমারে কম ব্রাইটনেস, টাচ করলে ফিরে আসে
+"
 }
