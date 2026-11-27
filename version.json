@@ -1,13 +1,10 @@
 {
-  "versionCode": 8,
-  "versionName": "3.5",
-  "apkUrl": "https://github.com/im-mhossain/aspirants-planner-updates/releases/download/v3.5/Aspirant.s.Planner.3.5.apk",
+  "versionCode": 9,
+  "versionName": "3.6",
+  "apkUrl": "https://github.com/im-mhossain/aspirants-planner-updates/releases/download/v3.6/Aspirant.s.Planner.3.6.apk",
   "changelog": "
 নতুন কী আছে:
-- নতুন আপডেট এলে মেনুতে লাল ডট ও উপরে "Update" বাটন
-- সাবজেক্টগুলো এক লাইনে, সোয়াইপ ও তীর আইকনসহ
-- "+ Subject" আলাদা লাইনে, বাটনগুলো মাঝখানে
-- Pomodoro খোলা থাকলে বাকি অ্যাপ বন্ধ
-- ফোকাস টাইমারে কম ব্রাইটনেস, টাচ করলে ফিরে আসে
+ job circular option added
+  
 "
 }
